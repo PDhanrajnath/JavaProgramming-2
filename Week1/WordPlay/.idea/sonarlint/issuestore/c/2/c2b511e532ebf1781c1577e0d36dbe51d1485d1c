@@ -1,0 +1,30 @@
+
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(û¹ü¨
+J
+java:S6212"/Declare this local variable with "var" instead.(ŸşŸ“ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹Á‚ú
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹Á‚ú
+J
+java:S6212"/Declare this local variable with "var" instead.(ãå¾ñşÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(†øÍ 
+E
+java:S6212"/Declare this local variable with "var" instead.(‚Óò
+E
+java:S6212%"/Declare this local variable with "var" instead.(ìåúÒ
+J
+java:S6212&"/Declare this local variable with "var" instead.(½Œ†¾øÿÿÿÿ
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(õı”U
+J
+java:S6212,"/Declare this local variable with "var" instead.(ãå¾ñşÿÿÿÿ
+E
+java:S6212."/Declare this local variable with "var" instead.(†øÍ 
+E
+java:S6212/"/Declare this local variable with "var" instead.(‚Óò
+J
+java:S6212@"/Declare this local variable with "var" instead.(‹†·ıÿÿÿÿ
+E
+java:S6212A"/Declare this local variable with "var" instead.(ë£ıú
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(şÍ‡øÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(şÍ‡øÿÿÿÿ
