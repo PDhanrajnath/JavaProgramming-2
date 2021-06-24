@@ -1,0 +1,16 @@
+
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó½Öâúÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÒÉ»ƒúÿÿÿÿ
+J
+java:S6212$"/Declare this local variable with "var" instead.(ÕßÒåûÿÿÿÿ
+J
+java:S6212%"/Declare this local variable with "var" instead.(ÅÿóÅüÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ºÅÛ
+J
+java:S62123"/Declare this local variable with "var" instead.(·˜â¿ûÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(âáöÒ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(×›µš

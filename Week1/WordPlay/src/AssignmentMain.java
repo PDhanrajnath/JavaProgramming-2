@@ -8,7 +8,7 @@ public class AssignmentMain {
         logger.log(Level.FINE,"\n");
         obj.testIsVowel();
         logger.log(Level.FINE,"\n");
-        logger.log(Level.FINE,"Hello World"); //testing logger.log()
+        logger.log(Level.INFO,"Hello World"); //testing logger.log()
         obj.testReplaceVowels();
     }
 }
