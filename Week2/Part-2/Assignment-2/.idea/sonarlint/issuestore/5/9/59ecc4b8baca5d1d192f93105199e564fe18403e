@@ -1,0 +1,46 @@
+
+J
+java:S3740."/Provide the parametrized type for this generic.(Ş›Òèúÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µïšõÿÿÿÿÿ
+L
+java:S6212
+"/Declare this local variable with "var" instead.(ş à÷8Œöí£/
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(©Õ“
+L
+java:S6212"/Declare this local variable with "var" instead.(ó¦Ä8öí£/
+E
+java:S6212#"/Declare this local variable with "var" instead.(¡öú
+J
+java:S2864$"4Iterate over the "entrySet" instead of the "keySet".(­—è¥
+E
+java:S6212%"/Declare this local variable with "var" instead.(æÕ¿¼
+o
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø¹÷™
+J
+java:S28640"4Iterate over the "entrySet" instead of the "keySet".(­—è¥
+E
+java:S62121"/Declare this local variable with "var" instead.(æÕ¿¼
+t
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ªµ˜úÿÿÿÿ
+J
+java:S2864<"4Iterate over the "entrySet" instead of the "keySet".(­—è¥
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(ÂÿÏÇ
+E
+java:S6212D"/Declare this local variable with "var" instead.(•´Æ®
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(é™Åù
+J
+java:S2864K"4Iterate over the "entrySet" instead of the "keySet".(­—è¥
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(şüûŸùÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(ú¿‡Óúÿÿÿÿ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(ğ¯”À
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(ü›Çıÿÿÿÿ
+J
+java:S6212V"/Declare this local variable with "var" instead.(Æ„Øşÿÿÿÿ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(ú¿‡Óúÿÿÿÿ
+E
+java:S1481&"*Remove this unused "value" local variable.(„ƒÁÃÿÿÿÿÿ
+E
+java:S14812"*Remove this unused "value" local variable.(„ƒÁÃÿÿÿÿÿ

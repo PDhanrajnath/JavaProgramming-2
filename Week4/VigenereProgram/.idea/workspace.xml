@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f74ad37d-cdea-475e-aa7c-a0ec4b9fe738" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Week3/LogEntry/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/LogEntry/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/LogEntry/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/LogEntry/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/LogEntry/LogEntry.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/LogEntry/src/LogAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/LogEntry/src/LogEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/LogEntry/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/LogEntry/src/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/LogEntry/src/WebLogParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/UniqueIP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/LogAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/LogEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/WebLogParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/DirectoryResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/DirectoryResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/FileResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/FileResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/FileSelector$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/FileSelector$ChooserFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/FileSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/FileSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/ImageFrame$ImagePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/ImageFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/ImageFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/ImageResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/ImageResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/Pixel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/Pixel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/RangeResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/RangeResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/ResourceException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/ResourceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/StorageResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/StorageResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/TextIterable$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/TextIterable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/TextIterable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/URLResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/URLResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/package-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/edu/duke/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/Assertions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/CSVFormat$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/CSVFormat$Predefined.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/CSVFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/CSVFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/CSVParser$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/CSVParser$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/CSVParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/CSVParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/CSVPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/CSVPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/CSVRecord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/CSVRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/ExtendedBufferedReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/ExtendedBufferedReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/Lexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/Lexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/QuoteMode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/QuoteMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/Token$Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/Token.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/org/apache/commons/csv/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/short-test_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week3/UniqueIP/src/weblog-short_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VigenereProgram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaesarCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaesarCracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VigenereBreaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VigenereCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dictionaries/Danish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dictionaries/Dutch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dictionaries/English" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dictionaries/French" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dictionaries/German" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dictionaries/Italian" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dictionaries/Portuguese" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dictionaries/Spanish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/DirectoryResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/DirectoryResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/FileResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/FileResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/FileSelector$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/FileSelector$ChooserFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/FileSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/FileSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/ImageFrame$ImagePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/ImageFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/ImageFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/ImageResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/ImageResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/Pixel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/Pixel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/RangeResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/RangeResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/ResourceException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/ResourceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/StorageResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/StorageResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/TextIterable$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/TextIterable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/TextIterable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/URLResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/URLResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/package-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/duke/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/messages/athens_keyflute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/messages/secretmessage1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/messages/secretmessage2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/messages/secretmessage3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/messages/secretmessage4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/Assertions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/CSVFormat$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/CSVFormat$Predefined.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/CSVFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/CSVFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/CSVParser$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/CSVParser$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/CSVParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/CSVParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/CSVPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/CSVPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/CSVRecord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/CSVRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/ExtendedBufferedReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/ExtendedBufferedReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/Lexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/Lexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/QuoteMode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/QuoteMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/Token$Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/Token.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/apache/commons/csv/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week2/Part-2/Assignment-2/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week2/Part-2/Assignment-2/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1uP5VKTX56RDCgPsTmxllssyL7n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f74ad37d-cdea-475e-aa7c-a0ec4b9fe738" name="Default Changelist" comment="" />
+      <created>1624554408335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624554408335</updated>
+      <workItem from="1624554409611" duration="191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

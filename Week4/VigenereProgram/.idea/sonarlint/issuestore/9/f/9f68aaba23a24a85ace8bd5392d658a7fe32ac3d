@@ -1,0 +1,57 @@
+
+ƒ
+java:S1319$"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(œÆ‘‡
+ˆ
+java:S1319/"rThe type of the "dictionary" object should be an interface such as "Set" rather than the implementation "HashSet".(¨ïä”
+
+java:S1319<"rThe type of the "dictionary" object should be an interface such as "Set" rather than the implementation "HashSet".(Ö÷×‰üÿÿÿÿ
+
+java:S1319\"rThe type of the "dictionary" object should be an interface such as "Set" rather than the implementation "HashSet".(î¾ø¥üÿÿÿÿ
+‡
+java:S1319z"qThe type of the "languages" object should be an interface such as "Map" rather than the implementation "HashMap".(»—ËÙ
+k
+java:S1192!"UDefine a constant instead of duplicating this literal "Decrypted message = " 3 times.(ãäÂç
+J
+java:S6212"/Declare this local variable with "var" instead.(Òª¥‰øÿÿÿÿ
+L
+java:S1172"1Remove this unused method parameter "mostCommon".(Š¼‰øÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(áêçí
+E
+java:S6212"/Declare this local variable with "var" instead.(™Êº¿
+J
+java:S6212"/Declare this local variable with "var" instead.(ÇŸ™˜øÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ãäÂç
+o
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(„û´ı
+D
+java:S62121"/Declare this local variable with "var" instead.(ŠÑŠg
+J
+java:S6212="/Declare this local variable with "var" instead.(ş—Ò…ıÿÿÿÿ
+J
+java:S6212@"/Declare this local variable with "var" instead.(º›£şÿÿÿÿ
+V	java:S125C"<This block of commented-out lines of code should be removed.(«¯ã”ûÿÿÿÿ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(ãäÂç
+o
+java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹‡ªÏ
+J
+java:S6212`"/Declare this local variable with "var" instead.(€—ı‡øÿÿÿÿ
+J
+java:S6212a"/Declare this local variable with "var" instead.(ÿÙıáøÿÿÿÿ
+J
+java:S6212k"/Declare this local variable with "var" instead.(¶¨Çøÿÿÿÿ
+J
+java:S2864n"4Iterate over the "entrySet" instead of the "keySet".(Àõù
+J
+java:S6212|"/Declare this local variable with "var" instead.(Ş×³‹úÿÿÿÿ
+J
+java:S6212}"/Declare this local variable with "var" instead.(íËçıøÿÿÿÿ
+O
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(şÎâ‹ûÿÿÿÿ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(ú¢¾©ûÿÿÿÿ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ãäÂç
+u
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô©üŞûÿÿÿÿ
+F
+java:S6212”"/Declare this local variable with "var" instead.(§ùÔ˜
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(¸½šÃÿÿÿÿÿ
