@@ -9,7 +9,6 @@ public class Main {
         for (int i = 0; i < input.length(); i++) {
             char currentCharacter = input.charAt(i);
             int index = alphabet.toLowerCase().indexOf(Character.toLowerCase(currentCharacter));
-
             if (index != -1) {
                 if (Character.isLowerCase(currentCharacter)) {
                     encryptedMessage.append(Character.toLowerCase(shiftedAlphabet.charAt(index)));
@@ -20,7 +19,6 @@ public class Main {
                 encryptedMessage.append(currentCharacter);
             }
         }
-
         return encryptedMessage.toString();
     }
 
@@ -28,7 +26,6 @@ public class Main {
         FileResource fr = new FileResource();
         String message = fr.asString();
         int key = 23;
-
         String encrypted = encrypt(message, key);
         System.out.println("key is " + key + "\n" + encrypted);
     }
@@ -45,7 +42,6 @@ public class Main {
 
             if (index != -1) {
                 String shiftedAlphabet;
-
                 if (i % 2 == 0) {
                     shiftedAlphabet = firstShiftedAlphabet;
                 } else {
