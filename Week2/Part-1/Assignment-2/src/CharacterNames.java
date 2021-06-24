@@ -1,10 +1,8 @@
 import edu.duke.*;
 import java.util.ArrayList;
-
 public class CharacterNames {
     private ArrayList<String> character_name;
     private ArrayList<Integer> count;
-
     public CharacterNames() {
         character_name = new ArrayList<String>();
         count = new ArrayList<Integer>();
@@ -38,7 +36,6 @@ public class CharacterNames {
     public void tester() {
         findAllCharacters();
         for (int k =0; k < count.size();k++) {
-
             if (count.get(k) > 1) {
                 System.out.println("The main character is: "+ character_name.get(k) +"\t" +"The number of speaking parts is: "+ count.get(k));
             }
