@@ -1,7 +1,4 @@
-//import java.util.logging.Level;
-//import java.util.logging.Logger;
 public class Assignment{
-//    Logger logger= Logger.getLogger(Assignment.class.getName());
     public boolean isVowel(char ch) {
         ch = Character.toLowerCase(ch);
         return ch == 'a' || ch == 'i' || ch == 'u' || ch == 'e' || ch == 'o';
@@ -10,8 +7,6 @@ public class Assignment{
     public void testIsVowel() {
         var ch = 'f';
         System.out.println(ch + " is a vowel = " + isVowel(ch));
-//        logger.log(Level.FINE,"Hello world");
-
         ch = 'A';
         System.out.println(ch + " is a vowel = " + isVowel(ch));
     }

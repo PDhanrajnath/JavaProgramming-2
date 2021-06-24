@@ -1,0 +1,23 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë½†úÿÿÿÿ8µ‘’æ£/
+r	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•‚¢‰ıÿÿÿÿ8·‘’æ£/
+z	java:S116"YRename this field "character_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â…†Ãşÿÿÿÿ8º‘’æ£/
+{
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦òºéüÿÿÿÿ8¾‘’æ£/
+v
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(†Éóö8Á‘’æ£/
+Q
+java:S6212"/Declare this local variable with "var" instead.(ë½†úÿÿÿÿ8†Ù æ£/
+Q
+java:S6212 "/Declare this local variable with "var" instead.(•‚¢‰ıÿÿÿÿ8Ô‘’æ£/
+Q
+java:S6212("/Declare this local variable with "var" instead.(µ¼Öìşÿÿÿÿ8…˜æ£/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(©üàµÿÿÿÿÿ8…˜æ£/
+Q
+java:S6212."/Declare this local variable with "var" instead.(ë„æÎùÿÿÿÿ8…˜æ£/
+L
+java:S6212/"/Declare this local variable with "var" instead.(ş»ÎÖ8×‘’æ£/
+Q
+java:S62124"/Declare this local variable with "var" instead.(µ¼Öìşÿÿÿÿ8Ÿ…˜æ£/
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(Ã¶–¢ûÿÿÿÿ8 …˜æ£/
