@@ -11,8 +11,6 @@ public class CharacterNames {
     }
 
     public void update(String person){
-
-        //person  person.toLowerCase();
         int index = character_name.indexOf(person);
         if (index == -1) {
             character_name.add(person);
