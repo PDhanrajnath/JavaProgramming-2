@@ -1,0 +1,21 @@
+
+o
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä¥¥˜
+J
+java:S6212"/Declare this local variable with "var" instead.(ÖØøÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(¹½Çœ
+O
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(íÇßìıÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(©²ÉÃ
+O
+java:S2864("4Iterate over the "entrySet" instead of the "keySet".(íÇßìıÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ˆïÙÙúÿÿÿÿ
+E
+java:S62122"/Declare this local variable with "var" instead.(¯ôäú
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(Èƒ°Æ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(™ç‚
+J
+java:S62127"/Declare this local variable with "var" instead.(ºÓê«ÿÿÿÿÿ
+E
+java:S62128"/Declare this local variable with "var" instead.(çÀÈÀ
