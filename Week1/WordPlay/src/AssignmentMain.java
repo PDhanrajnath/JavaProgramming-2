@@ -1,10 +1,14 @@
+import java.util.logging.Level;
+import java.util.logging.Logger;
 public class AssignmentMain {
-    public static void main(String args[]){
-        Assignment obj=new Assignment();
+    public static void main(String[] args){
+        var logger= Logger.getLogger(AssignmentMain.class.getName());
+        var obj=new Assignment();
         obj.testEmphasize();
-        System.out.println();
+        logger.log(Level.FINE,"\n");
         obj.testIsVowel();
-        System.out.println();
+        logger.log(Level.FINE,"\n");
+        logger.log(Level.FINE,"Hello World"); //testing logger.log()
         obj.testReplaceVowels();
     }
 }

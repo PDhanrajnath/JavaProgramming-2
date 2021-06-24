@@ -1,17 +1,16 @@
+import java.util.logging.Level;
+import java.util.logging.Logger;
 public class Assignment{
+    Logger logger= Logger.getLogger(Assignment.class.getName());
     public boolean isVowel(char ch) {
         ch = Character.toLowerCase(ch);
-
-        if (ch == 'a' || ch == 'i' || ch == 'u' || ch == 'e' || ch == 'o') {
-            return true;
-        }
-
-        return false;
+        return ch == 'a' || ch == 'i' || ch == 'u' || ch == 'e' || ch == 'o';
     }
 
     public void testIsVowel() {
-        char ch = 'f';
+        var ch = 'f';
         System.out.println(ch + " is a vowel = " + isVowel(ch));
+        logger.log(Level.FINE,"ch + \" is a vowel = \" + isVowel(ch)");
 
         ch = 'A';
         System.out.println(ch + " is a vowel = " + isVowel(ch));
@@ -20,7 +19,7 @@ public class Assignment{
     public String replaceVowels(String phrase, char ch) {
         StringBuilder newPhrase = new StringBuilder();
 
-        for (int i = 0; i < phrase.length(); i++) {
+        for (var i = 0; i < phrase.length(); i++) {
             char currentCharacter = phrase.charAt(i);
 
             if (isVowel(currentCharacter)) {
@@ -35,15 +34,13 @@ public class Assignment{
 
     public void testReplaceVowels() {
         String phrase = "Hello World";
-        char ch = '*';
+        var ch = '*';
         System.out.println(phrase + " -> " + replaceVowels(phrase, ch));
     }
 
-
     public String emphasize(String phrase, char ch) {
         StringBuilder newPhrase = new StringBuilder();
-
-        for (int i = 0; i < phrase.length(); i++) {
+        for (var i = 0; i < phrase.length(); i++) {
             char currentCharacter = phrase.charAt(i);
 
             if (Character.toLowerCase(currentCharacter) == Character.toLowerCase(ch)) {
@@ -61,7 +58,7 @@ public class Assignment{
     }
 
     public void testEmphasize() {
-        String phrase = "dna ctgaaactga";
+        var phrase = "dna ctgaaactga";
         char ch = 'a';
         System.out.println(phrase + " with " + ch + " replaced become = " + emphasize(phrase, ch));
 
