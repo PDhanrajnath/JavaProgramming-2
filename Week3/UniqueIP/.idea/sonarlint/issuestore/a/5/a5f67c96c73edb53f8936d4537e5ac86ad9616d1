@@ -1,0 +1,25 @@
+
+
+java:S1319/"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(©ç™¬8ıÁ˜÷£/
+Q
+java:S10664"/Merge this if statement with the enclosing one.(æ”Êàúÿÿÿÿ8şÁ˜÷£/
+Q
+java:S1066B"/Merge this if statement with the enclosing one.(æ”Êàúÿÿÿÿ8şÁ˜÷£/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(•ëšÙ8‚Â˜÷£/
+Q
+java:S6212"/Declare this local variable with "var" instead.(€üš”ûÿÿÿÿ8ï€¢Œ¤/
+L
+java:S6212"/Declare this local variable with "var" instead.(õÂöÕ8õ€¢Œ¤/
+I
+java:S2440",Remove this instantiation of "WebLogParser".(õÂöÕ8ù€¢Œ¤/
+Q
+java:S2209"5Change this instance-reference to a static reference.(µ«€Q8ü€¢Œ¤/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ½Ñ°üÿÿÿÿ8„Â˜÷£/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ş»Û8„Â˜÷£/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ƒ½Ñ°üÿÿÿÿ8†Â˜÷£/
+v
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ş»Û8‡Â˜÷£/
+v
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ş»Û8ˆÂ˜÷£/

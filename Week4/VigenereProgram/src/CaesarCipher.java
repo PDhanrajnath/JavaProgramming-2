@@ -12,6 +12,8 @@ public class CaesarCipher {
                             alphabet.substring(0,key);
         alphabet = alphabet + alphabet.toLowerCase();
         shiftedAlphabet = shiftedAlphabet + shiftedAlphabet.toLowerCase();
+        //alphabet -> ABC..XYZabc....xyz
+        //shiftalphabet -> (key=3) DEF...ABCdef...abc
     }
     
     private char transformLetter(char c, String from, String to) {
@@ -23,10 +25,12 @@ public class CaesarCipher {
     }
     
     public char encryptLetter(char c) {
+
         return transformLetter(c, alphabet, shiftedAlphabet);
     }
     
     public char decryptLetter(char c) {
+
         return transformLetter(c, shiftedAlphabet, alphabet);
     }
     
@@ -41,14 +45,17 @@ public class CaesarCipher {
     }
     
     public String encrypt(String input) {
+
         return transform(input, alphabet, shiftedAlphabet);
     }
     
     public String decrypt(String input) {
+
         return transform(input, shiftedAlphabet, alphabet);
     }
     
     public String toString() {
+
         return "" + theKey;
     }
     

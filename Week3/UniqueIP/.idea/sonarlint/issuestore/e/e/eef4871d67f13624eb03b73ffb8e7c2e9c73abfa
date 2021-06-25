@@ -1,0 +1,26 @@
+
+s
+java:S1192"QDefine a constant instead of duplicating this literal "weblog-short_log" 4 times.(˜üòàÿÿÿÿÿ8Ç Û÷£/
+K
+java:S6212"/Declare this local variable with "var" instead.(ï£—<8æçØ÷£/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ½Ñ°üÿÿÿÿ
+L
+java:S6212"/Declare this local variable with "var" instead.(´“¼ô8ëçØ÷£/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«©ÍŒ
+L
+java:S6212"/Declare this local variable with "var" instead.(°£ÏÁ8îçØ÷£/
+L
+java:S6212"/Declare this local variable with "var" instead.(°£ÏÁ8ğçØ÷£/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ù“Ê§
+L
+java:S6212"/Declare this local variable with "var" instead.(°£ÏÁ8õçØ÷£/
+L
+java:S6212"/Declare this local variable with "var" instead.(°£ÏÁ8÷çØ÷£/
+P
+java:S6213!":Rename this variable to not match a restricted identifier.(÷õıÊ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(¨ã¤
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(û‰Ñşÿÿÿÿ
+L
+java:S6212)"/Declare this local variable with "var" instead.(°£ÏÁ8ıçØ÷£/
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ËøÛ
+M	java:S106,"9Replace this use of System.out or System.err by a logger.(Á®Œ!
